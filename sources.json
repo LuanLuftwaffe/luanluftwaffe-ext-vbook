@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "LuanLuftwaffe",
+    "description": "Kho tiện ích mở rộng vBook - LuanLuftwaffe"
+  },
+  "data": [
+    {
+      "name": "Multi-API Translate",
+      "author": "vBook Community",
+      "path": "https://raw.githubusercontent.com/LuanLuftwaffe/luanluftwaffe-ext-vbook/main/extensions/translate/multi-api/plugin.zip",
+      "version": 1,
+      "source": "https://github.com/LuanLuftwaffe/luanluftwaffe-ext-vbook",
+      "icon": "https://raw.githubusercontent.com/LuanLuftwaffe/luanluftwaffe-ext-vbook/main/extensions/translate/multi-api/icon.png",
+      "description": "Dịch, viết lại convert đa nguồn API: Google Gemini, DeepSeek, Claude, OpenAI & bên thứ 3. Tự xoay key, Cache 0ms, Anti-Stop chống dừng tải",
+      "type": "translate",
+      "locale": "global"
+    }
+  ]
+}
